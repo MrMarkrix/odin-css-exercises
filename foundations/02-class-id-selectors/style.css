@@ -1,0 +1,19 @@
+p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.coolerP{
+    font-size: 24px;
+}
+
+#idElem1{
+    color: blue;
+    font-size: 36px;
+}
+
+#idElem2{
+    background-color: rgb(202, 255, 123);
+    font-size: 24px;
+    font-weight: bold;
+}
